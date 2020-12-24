@@ -1,6 +1,6 @@
 # Construction-Material-Management-System
 
-Frontend: C#
+Frontend: C#    
 Backend: SQL 
 
 ![1](https://user-images.githubusercontent.com/49120359/103098803-1e901400-4632-11eb-8115-b986bfda8b13.PNG)
